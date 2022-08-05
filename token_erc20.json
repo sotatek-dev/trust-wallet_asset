@@ -16489,14 +16489,6 @@
   },
   {
     "chainId": 1,
-    "name": "Compound Dai",
-    "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
-    "decimals": 8,
-    "symbol": "CDAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5263.png"
-  },
-  {
-    "chainId": 1,
     "name": "Compound SAI",
     "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
     "decimals": 8,
@@ -16505,7 +16497,7 @@
   },
   {
     "chainId": 1,
-    "name": "Compound USD Coin",
+    "name": "Compound USD Coin Edited",
     "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
     "decimals": 8,
     "symbol": "CUSDC",

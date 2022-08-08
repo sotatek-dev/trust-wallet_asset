@@ -53942,5 +53942,13 @@
     "decimals": 9,
     "symbol": "3OH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20900.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Nguyen Thi Hao",
+    "address": "0x2e922f84ec5bb9cedfbb1a99543b143aa43d9999",
+    "decimals": 9,
+    "symbol": "HAONT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20900.png"
   }
 ]

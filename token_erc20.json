@@ -57,14 +57,6 @@
   },
   {
     "chainId": 1,
-    "name": "Tether",
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "decimals": 6,
-    "symbol": "USDT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
-  },
-  {
-    "chainId": 1,
     "name": "Xaurum",
     "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
     "decimals": 8,

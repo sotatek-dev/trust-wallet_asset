@@ -17,18 +17,18 @@
   },
   {
     "chainId": 1,
-    "name": "Coin Fake",
-    "address": "0xc1f976B91217E240885536aF8b63bc8b5269a9EE",
-    "decimals": 18,
-    "symbol": "FAKE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/64.png"
-  },
-  {
-    "chainId": 1,
     "name": "Bela",
     "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b224",
     "decimals": 18,
-    "symbol": "BELA",
+    "symbol": "BELA Edited",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/217.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Truong Ngoc",
+    "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b225",
+    "decimals": 18,
+    "symbol": "TNN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/217.png"
   },
   {

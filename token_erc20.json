@@ -17,11 +17,11 @@
   },
   {
     "chainId": 1,
-    "name": "Magic Internet Money",
-    "address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "name": "Coin Fake",
+    "address": "0xc1f976B91217E240885536aF8b63bc8b5269a9EE",
     "decimals": 18,
-    "symbol": "MIM",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/162.png"
+    "symbol": "FAKE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/64.png"
   },
   {
     "chainId": 1,

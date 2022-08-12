@@ -33,6 +33,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bela 2",
+    "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b224",
+    "decimals": 18,
+    "symbol": "BELA2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/217.png"
+  },
+  {
+    "chainId": 1,
     "name": "SolarCoin",
     "address": "0x4e9e4ab99cfc14b852f552f5fb3aa68617825b6c",
     "decimals": 18,

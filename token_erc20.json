@@ -1,7 +1,7 @@
 [
   {
     "chainId": 1,
-    "name": "Tether",
+    "name": "Tether USDTTT",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "decimals": 6,
     "symbol": "USDT",
@@ -18,17 +18,17 @@
   {
     "chainId": 1,
     "name": "Bela",
-    "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b224",
+    "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b211",
     "decimals": 18,
     "symbol": "BELA Edited",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/217.png"
   },
   {
     "chainId": 1,
-    "name": "Truong Ngoc",
-    "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b225",
+    "name": "Test 1508",
+    "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b244",
     "decimals": 18,
-    "symbol": "TNN",
+    "symbol": "TEST1508",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/217.png"
   },
   {

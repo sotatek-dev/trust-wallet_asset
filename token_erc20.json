@@ -33,6 +33,14 @@
   },
   {
     "chainId": 1,
+    "name": "Test 2",
+    "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b244",
+    "decimals": 18,
+    "symbol": "TEST2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/217.png"
+  },
+  {
+    "chainId": 1,
     "name": "Bela 2",
     "address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b224",
     "decimals": 18,

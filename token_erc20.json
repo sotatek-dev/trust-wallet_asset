@@ -51393,6 +51393,14 @@
   },
   {
     "chainId": 1,
+    "name": "StakeWiseEn",
+    "address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5",
+    "decimals": 18,
+    "symbol": "RETH2E",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18672.png"
+  },
+  {
+    "chainId": 1,
     "name": "DEPRECATED-Amplify",
     "address": "0xe5c4a238c7c80c1c312e8f36e21d5f0aba40c5b7",
     "decimals": 18,

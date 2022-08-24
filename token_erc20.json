@@ -3202,7 +3202,7 @@
   {
     "chainId": 1,
     "name": "WETH",
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "decimals": 18,
     "symbol": "WETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"

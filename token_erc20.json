@@ -65,6 +65,14 @@
   },
   {
     "chainId": 1,
+    "name": "Tether",
+    "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
+    "decimals": 6,
+    "symbol": "USDT Rinkeby",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+  },
+  {
+    "chainId": 1,
     "name": "Xaurum",
     "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
     "decimals": 8,

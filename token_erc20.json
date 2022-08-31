@@ -65,14 +65,6 @@
   },
   {
     "chainId": 1,
-    "name": "Tether",
-    "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
-    "decimals": 6,
-    "symbol": "USDT Rinkeby",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
-  },
-  {
-    "chainId": 1,
     "name": "Xaurum",
     "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
     "decimals": 8,
@@ -3210,7 +3202,7 @@
   {
     "chainId": 1,
     "name": "WETH",
-    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "decimals": 18,
     "symbol": "WETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
@@ -47849,6 +47841,14 @@
   },
   {
     "chainId": 1,
+    "name": "Totem",
+    "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
+    "decimals": 18,
+    "symbol": "CTZN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16095.png"
+  },
+  {
+    "chainId": 1,
     "name": "Crafting Finance",
     "address": "0x508df5aa4746be37b5b6a69684dfd8bdc322219d",
     "decimals": 18,
@@ -53337,7 +53337,7 @@
   },
   {
     "chainId": 1,
-    "name": "Test Mexican Peso Tether",
+    "name": "Mexican Peso Tether",
     "address": "0xed03Ed872159e199065401b6d0D487d78d9464AA",
     "decimals": 6,
     "symbol": "MXNT",

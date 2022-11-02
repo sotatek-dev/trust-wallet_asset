@@ -34323,7 +34323,7 @@
     "chainId": 1,
     "name": "MyNeighborAlice",
     "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "ALICE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png"
   },
